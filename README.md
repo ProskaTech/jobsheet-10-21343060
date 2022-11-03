@@ -1,5 +1,11 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Created By Nadya Annisa Juventina 21343060
+
+Pada pertemuan kali ini kita mempelajari mengenai Class, Objek, Property, Method, Constructor serta Visibility.
+
+Yang dimana Class merupakan sebauh rancangan dari suatu objek serta gambaran umum dari suatu objek.
+Objek merupakan hasil cetak dari sebuah class atau bisa juga disebut sebagai hasil konkrit dari class.
+Property merupakan atribut yang terdapat didalam sebuah class.
+Method merupakan Tindakan yang dilakukan dalam sebuah class pada suatu objek.
+Constructor merupakan method khusus yang digunakan untuk menginisialisasi objek.
+Visibility merupakan aturan siapa yang dapat mengakses suatu data, atribut serta method yang dibuat.
+
